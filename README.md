@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mukhesh-san
-- 👀 I’m interested in Backend programming
-- 🌱 I’m currently learning 11TH Grade
-- 💞️ I’m looking to collaborate on Gmae projects and App creating
+- 👀 I’m interested in full stack dev
+- 🌱 I’m currently learning 12TH Grade
+- 💞️ I’m looking to collaborate on Game projects and App creating
 
 
 <!---
